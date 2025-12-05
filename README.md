@@ -16,5 +16,5 @@ The [yemeksepeti_dml_sorgular.sql](yemeksepeti_dml_sorgular.sql) file contains t
 
 * **Data Insertion (INSERT):** 10 sample data entries into all tables (7 tables).
 * **Data Update and Deletion (UPDATE/DELETE):** Examples of comment updates and order deletions.
-* ** 10 Queries (SELECT):** 10 different SQL queries analyzing the application's business logic (including JOIN, GROUP BY, EXCEPT, etc.).
+* **10 Queries (SELECT):** 10 different SQL queries analyzing the application's business logic (including JOIN, GROUP BY, EXCEPT, etc.).
 
