@@ -14,7 +14,7 @@ This project is a Relational Database Management System (RDBMS) solution designe
 📊 Data and Analysis (DML and Query)
 The [yemeksepeti_dml_sorgular.sql](yemeksepeti_dml_sorgular.sql) file contains the following basic database operations:
 
-**Data Insertion (INSERT):** 10 sample data entries into all tables (7 tables).
-**Data Update and Deletion (UPDATE/DELETE):** Examples of comment updates and order deletions.
-**10 Business Queries (SELECT):** 10 different SQL queries analyzing the application's business logic (including JOIN, GROUP BY, EXCEPT, etc.).
+* **Data Insertion (INSERT):** 10 sample data entries into all tables (7 tables).
+* **Data Update and Deletion (UPDATE/DELETE):** Examples of comment updates and order deletions.
+* ** 10 Queries (SELECT):** 10 different SQL queries analyzing the application's business logic (including JOIN, GROUP BY, EXCEPT, etc.).
 
